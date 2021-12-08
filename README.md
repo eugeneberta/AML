@@ -1,2 +1,2 @@
-# AML
-Repository for a Data Science competition at school
+# AML 2021
+Repository for Algorithmic Machine Learning course, 2020-2021 at EURECOM

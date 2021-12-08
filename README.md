@@ -1,2 +1,2 @@
 # AML 2021
-Repository for Algorithmic Machine Learning course, 2020-2021 at EURECOM
+Repository for Algorithmic Machine Learning course, 2020-2021, EURECOM
